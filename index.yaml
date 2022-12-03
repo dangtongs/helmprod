@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginxstd:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-03T14:51:37.019209+09:00"
+    description: nginx standard for acorn company.
+    digest: c42700c5ce0100363efbaf84f0fdf7ca4ad4f0216f53c9e042bc8c7686abdf67
+    name: nginxstd
+    type: application
+    urls:
+    - nginxstd-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-03T14:51:37.018632+09:00"
